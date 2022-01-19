@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Descrption:
- * @Author: huqingxiang
- * @Date: 2019-01-22 14:34
+ * @descrption
+ * @author huqingxiang
+ * @date 2019-01-22 14:34
  */
 interface Selector {
     boolean end();

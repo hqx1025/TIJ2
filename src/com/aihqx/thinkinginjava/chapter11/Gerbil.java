@@ -5,9 +5,9 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * @Descrption:
- * @Author: huqingxiang
- * @Date: 2019-01-22 14:04
+ * @descrption
+ * @author huqingxiang
+ * @date 2019-01-22 14:04
  */
 public class Gerbil {
     private int gerbilNumber;

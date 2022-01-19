@@ -3,9 +3,9 @@ package com.aihqx.thinkinginjava.chapter11;
 import java.util.*;
 
 /**
- * @Descrption:
- * @Author: huqingxiang
- * @Date: 2019-01-22 15:42
+ * @descrption
+ * @author huqingxiang
+ * @date 2019-01-22 15:42
  */
 public class ListFeatures {
 

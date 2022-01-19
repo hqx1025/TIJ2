@@ -5,9 +5,9 @@ import java.util.Collection;
 import java.util.HashSet;
 
 /**
- * @Descrption:
- * @Author: huqingxiang
- * @Date: 2019-01-22 14:31
+ * @descrption
+ * @author huqingxiang
+ * @date 2019-01-22 14:31
  */
 public class SimpleCollection {
     public static void main(String[] args) {

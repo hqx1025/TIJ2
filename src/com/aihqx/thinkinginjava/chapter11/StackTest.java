@@ -4,9 +4,9 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Descrption: Stack Test
- * @Author: huqingxiang
- * @Date: 2019-01-23 16:28
+ * @descrption Stack Test
+ * @author huqingxiang
+ * @date 2019-01-23 16:28
  */
 public class StackTest {
     private static final Deque<Character> stack1 = new LinkedList<>();

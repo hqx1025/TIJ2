@@ -5,9 +5,9 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @Descrption:
- * @Author: huqingxiang
- * @Date: 2019-01-23 10:01
+ * @descrption
+ * @author huqingxiang
+ * @date 2019-01-23 10:01
  */
 public class P7 {
     public static void main(String[] args) {

@@ -3,9 +3,9 @@ package com.aihqx.thinkinginjava.chapter11;
 import java.util.*;
 
 /**
- * @Descrption:
- * @Author: huqingxiang
- * @Date: 2019-01-22 14:53
+ * @descrption
+ * @author huqingxiang
+ * @date 2019-01-22 14:53
  */
 public class MovieFactory {
     String[] arrys = {"Snow White","Start Wars","Hello Mr Tree"};
